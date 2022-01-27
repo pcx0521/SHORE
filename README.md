@@ -1,2 +1,2 @@
 # SHORE
-The code for sparity reconstruction dMRI using dipy.
+The code for sparity reconstruction dMRI and GFA reconstruction using dipy.
